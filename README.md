@@ -1,6 +1,8 @@
 # Kaggle World Happiness
 
-Exploration and modeling of World Happiness dataset from Kaggle. 
+An in-depth exploration and modeling of the World Happiness dataset from Kaggle.
+
+This project involves analyzing various factors contributing to the happiness levels of different countries and building predictive models to understand these relationships.
 
 ![](https://storage.googleapis.com/kaggle-datasets-images/894/1634/927f32f2cc2cc40d208ae384562ad743/dataset-cover.jpg)
 
